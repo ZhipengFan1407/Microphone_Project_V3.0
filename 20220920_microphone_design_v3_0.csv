@@ -1,0 +1,33 @@
+Query,Qty,Manufacturer,MPN,Octopart URL,Part Description
+PCM2904DBR,1,Texas Instruments,PCM2904DB,https://octopart.com/pcm2904db-texas+instruments-427967,"Stereo USB1.1 CODEC with line-out, Bus-powered (HID Interface + 500mA USB Current) 28-SSOP -25 to 85"
+TLV716120275PDPQR,1,Texas Instruments,TLV716120275PDPQR,https://octopart.com/tlv716120275pdpqr-texas+instruments-30488857,"150-mA, dual-channel low-dropout voltage regulator with enable 6-X2SON -40 to 125"
+292303-7,1,TE Connectivity,292303-4,https://octopart.com/292303-4-te+connectivity-39545343,Conn USB 2.0 Type A RCP 4 POS 2mm/2.5mm Solder RA Thru-Hole 4 Terminal 1 Port Box/Tube
+LD2980ABM33TR,1,STMicroelectronics,LD2980ABM33TR,https://octopart.com/ld2980abm33tr-stmicroelectronics-526825,LDO Regulator Pos 3.3V 0.05A 5-Pin SOT-23 T/R
+ABLS-12.000MHZ-B2-T,1,Abracon,ABLS-12.000MHZ-B2-T,https://octopart.com/abls-12.000mhz-b2-t-abracon-54262,Crystal 12MHz ±20ppm (Tol) ±50ppm (Stability) 18pF FUND 50Ohm 2-Pin HC-49/US SMD T/R
+L101011MS02Q,1,C&K Components,L101011MS02Q,https://octopart.com/l101011ms02q-c%26k+components-1478650,Switch Slide ON OFF SPST Top Slide 4A 250VAC 125VDC PC Pins Thru-Hole Bulk
+D6R90F1LFS,2,C&K Components,D6R90F1LFS,https://octopart.com/d6r90f1lfs-c%26k+components-46547537,"Pushbutton Switch, Round, Momentary 0-(1) SPST 0, 1A 32VDC Black, THT"
+SPM0687LR5H-1,2,Knowles Acoustics,SPM0687LR5H-1,https://octopart.com/spm0687lr5h-1-knowles+acoustics-90701701,Microphone Mems Analog Omni
+INA217AIP,2,Texas Instruments,INA217AIP,https://octopart.com/ina217aip-texas+instruments-409154,"Low Noise, Low-Distortion Instrumentation Amplifier eplacement for SSM2017 8-PDIP -40 to 85"
+NCP1403SNT1G,2,onsemi,NCP1403SNT1G,https://octopart.com/ncp1403snt1g-onsemi-443270,NCP1403SNT1G; Boost Converter; Step Up 50mA; 300 kHz; 5-Pin TSOP
+MBR0520LT1G,3,onsemi,MBR0520LT1G,https://octopart.com/mbr0520lt1g-onsemi-2933,"Diode, Schottky Barrier, Vr 20V, If 0.5A, Pkg SOD-123, Vf 0.385V, Tj +125degc, Cs 5.5A"
+C0603C105K3PACTU,9,KEMET,C0603C105K3PACTU,https://octopart.com/c0603c105k3pactu-kemet-9138368,"Multilayer Ceramic Capacitor, 1 uF, 25 V, ± 10%, X5R, 0603 [1608 Metric]"
+ERJ-3GEYJ152V,3,Panasonic,ERJ-3GEYJ152V,https://octopart.com/erj-3geyj152v-panasonic-55421998,Res Thick Film 0603 1.5K Ohm 5% 0.1W(1/10W) ±200ppm/C Pad SMD Automotive T/R
+GRM155R61C225KE11D,2,Murata,GRM155R61C225KE11D,https://octopart.com/grm155r61c225ke11d-murata-46692823,"Multilayer Ceramic Capacitor, 2.2 uF, 16 V, ± 10%, X5R, 0402 [1005 Metric]"
+C0603C300J5GACTU,2,KEMET,C0603C300J5GACTU,https://octopart.com/c0603c300j5gactu-kemet-199455,"Multilayer Ceramic Capacitor, 30 pF, 50 V, ± 5%, C0G (NP0), 0603 [1608 Metric]"
+ERJ-3GEYJ105V,3,Panasonic,ERJ-3GEYJ105V,https://octopart.com/erj-3geyj105v-panasonic-55421976,Res Thick Film 0603 1M Ohm 5% 0.1W(1/10W) +/-200ppm/ßC SMD Automotive T/R
+ECA-1JHG100,3,Panasonic,ECA-1JHG100,https://octopart.com/eca-1jhg100-panasonic-55476855,"Aluminum Electrolytic Capacitor, 10 uF, 63 V, ± 20%, 1000 hours @ 105°C, Radial Leaded"
+ERJ-2RKF49R9X,2,Panasonic,ERJ-2RKF49R9X,https://octopart.com/erj-2rkf49r9x-panasonic-55421206,Res Thick Film 0402 49.9 Ohm 1% 0.1W(1/10W) +/-100ppm/ßC SMD Automotive T/R
+DR127-470-R,2,Eaton,DR127-470-R,https://octopart.com/dr127-470-r-eaton-51190311,Ind Power Shielded Wirewound 47uH 20% 100KHz Ferrite 2.95A T/R
+SMAJ33CA,3,Bourns,SMAJ33CA,https://octopart.com/smaj33ca-bourns-12809378,Transil Diode (TVS); 400W; 33V; 40A; bidirectional; -55+150 deg.C; SMD; DO214AC(SMA)
+EWK105C6104MPHF,13,Taiyo Yuden,EWK105C6104MPHF,https://octopart.com/ewk105c6104mphf-taiyo+yuden-77016399,"Multilayer Ceramic Capacitor, 0.1 uF, 16 V, ± 20%, X6S, 0204 [0510 Metric]"
+EEU-FR1E470B,4,Panasonic,EEU-FR1E470B,https://octopart.com/eeu-fr1e470b-panasonic-18987669,"Aluminum Electrolytic Capacitor, 47 uF, 25 V, ± 20%, 5000 hours @ 105°C, Radial Leaded"
+CRCW12062K20FKEAHP,4,Vishay,CRCW12062K20FKEAHP,https://octopart.com/crcw12062k20fkeahp-vishay-42635192,Res Thick Film 1206 2.2K Ohm 1% 0.75W ±100ppm/°C Molded SMD SMD Paper T/R
+C0603C102K5RACTU,1,KEMET,C0603C102K5RACTU,https://octopart.com/c0603c102k5ractu-kemet-144878,"Multilayer Ceramic Capacitor, 1000 pF, 50 V, ± 10%, X7R, 0603 [1608 Metric]"
+EEU-FC1V330,2,Panasonic,EEU-FC1V330,https://octopart.com/eeu-fc1v330-panasonic-39478512,"Aluminum Electrolytic Capacitor, 33 uF, 35 V, ± 20%, 1000 hours @ 105°C, Radial Leaded"
+CRGCQ2512F4K7,1,TE Connectivity,CRGCQ2512F4K7,https://octopart.com/crgcq2512f4k7-te+connectivity-91018599,Res Thick Film 2512 4.7K Ohm 1% 1W ±100ppm/C Pad SMD Automotive T/R
+CRGP2512F82K,1,TE Connectivity,CRGP2512F82K,https://octopart.com/crgp2512f82k-te+connectivity-91019083,Res Thick Film 2512 82K Ohm 1% 2W ±100ppm/°C Pad SMD Automotive T/R
+GRM1885C1H302JA01D,1,Murata,GRM1885C1H302JA01D,https://octopart.com/grm1885c1h302ja01d-murata-18528864,"Multilayer Ceramic Capacitor, 3000 pF, 50 V, ± 5%, C0G (NP0), 0603 [1608 Metric]"
+RMCF2512FT8K20,1,Stackpole Electronics,RMCF2512FT8K20,https://octopart.com/rmcf2512ft8k20-stackpole+electronics-21528779,Res Thick Film 2512 8.2K Ohm 1% 1W ±100ppm/°C Molded SMD SMD Plastic T/R
+CRGCQ2512J150K,1,TE Connectivity,CRGCQ2512J150K,https://octopart.com/crgcq2512j150k-te+connectivity-91018620,Res General Purpose Thick Film 2512 150k Ohm 5% 1W ±100ppm/°C Molded Emboss T/R
+CRGCQ2512J2R2,1,TE Connectivity,CRGCQ2512J2R2,https://octopart.com/crgcq2512j2r2-te+connectivity-91018636,Res Thick Film 2512 2.2 Ohm 5% 1W ±400ppm/C Pad SMD Automotive T/R
+OPA137N/250,2,Texas Instruments,OPA137N/250,https://octopart.com/opa137n%2F250-texas+instruments-420182,"Single, 36-V, 1-MHz operational amplifier with rail-to-rail input to V+ 5-SOT-23 -40 to 85"
